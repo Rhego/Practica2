@@ -27,4 +27,6 @@ for lt,ln,el in zip(lat,lon,elev):
 map.add_child(fg)
 
 map.save('mapa1.html')
+
+#Test
  
